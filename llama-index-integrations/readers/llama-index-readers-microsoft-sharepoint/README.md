@@ -8,7 +8,7 @@ The loader loads the files from a folder in sharepoint site.
 
 It also supports traversing recursively through the sub-folders.
 
-## Prequsites
+## Prerequisites
 
 ### App Authentication using Microsoft Entra ID(formerly Azure AD)
 
